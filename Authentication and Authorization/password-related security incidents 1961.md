@@ -1,0 +1,1 @@
+- `One of the earliest known password-related security incidents also happened on CTSS. Due to a software bug, the system accidentally printed the password file, allowing users to see everyone else's passwords. This highlighted the importance of securing stored passwords and led to improvements in computer security.*
