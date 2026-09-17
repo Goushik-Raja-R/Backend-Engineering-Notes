@@ -1,4 +1,4 @@
-# Backend Engineering Note
+# Backend Engineering Notes
 
 A structured collection of my backend engineering learning notes,
 covering backend fundamentals, HTTP, authentication and authorization,
