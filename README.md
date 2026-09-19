@@ -11,7 +11,7 @@ and PostgreSQL.
 
 ---
 
-## 📚 Topics Coveredd
+## 📚 Topics Covered
 
 ### 00 — Backend
 
