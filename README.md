@@ -29,7 +29,7 @@ Topics covered:
 
 ---
 
-### 01 — Understanding HTTPs
+### 01 — Understanding HTTP
 
 Fundamentals of HTTP and how clients communicate with backend
 applications.
