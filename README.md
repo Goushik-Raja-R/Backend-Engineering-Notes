@@ -51,7 +51,7 @@ Topics covered:
 
 ---
 
-### 03 — Authentication and Authorizations
+### 03 — Authentication and Authorization
 
 Understanding how backend applications authenticate users and
 control access to protected resources.
